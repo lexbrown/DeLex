@@ -2,8 +2,8 @@
 Trial base
 
 * ClickHouse - CDM слой
-* Spark
-* Hadoop / S3
+* Spark / Trino - для compute
+* Hadoop / S3 - для хранения
 * Superset - для визуализации
 * Airflow - для оркестрации
 * Docker - для развёртывания приложения
